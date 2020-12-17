@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-practice"]=this["webpackJsonpreact-practice"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(2),i=t.n(r);t(8),t(9);var u=function(){return c.a.createElement("div",{className:"App"},c.a.createElement("header",null,"Hey, my name is Ruben!"))};i.a.render(c.a.createElement(u,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.48d4ef61.chunk.js.map
